@@ -1,2 +1,2 @@
 # login-supabase
-Pagina de login utilizando um banco de dados
+Pagina de login funcional utilizando o banco de dados online da supabase
